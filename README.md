@@ -1,7 +1,7 @@
 # Datafold Demo Project
 
-This repo contains a demo dbt project suited to leveraging Datafold.
-
+This repo contains a demo dbt project suited to leveraging open source data-diff with MotherDuck.
+Follow along with code changes in a demo branch: `git checkout demo/motherduck`
 
 ### What's in this repo?
 This repo contains [seeds](https://docs.getdbt.com/docs/building-a-dbt-project/seeds) that includes fake raw data from a fictional app.
